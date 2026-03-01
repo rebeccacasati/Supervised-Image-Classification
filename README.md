@@ -21,3 +21,8 @@ The repository also includes the final project report:
 - `Exam_Project_Supervised_CANESI_CASATI.pdf`
 
 The report contains the final evaluation of the algorithms' performance and a comparison between the two approaches.
+
+## Authors
+
+- Rebecca Casati
+- Gabriele Canesi
